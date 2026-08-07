@@ -1,0 +1,23 @@
+{
+  "name": "noodle-seed",
+  "version": "0.33.72",
+  "description": "Build, validate, test, and deploy production MCP servers and apps from one TypeScript server.ts with Noodle Seed. Connect GitHub Copilot to local readiness tools and governed cloud operations.",
+  "author": {
+    "name": "Noodle Seed",
+    "url": "https://noodleseed.dev"
+  },
+  "homepage": "https://noodleseed.dev",
+  "repository": "https://github.com/NoodleSeed-com/copilot-plugin",
+  "license": "Apache-2.0",
+  "keywords": [
+    "mcp",
+    "mcp-server",
+    "copilot",
+    "typescript",
+    "developer-tools",
+    "deployment",
+    "noodle-seed"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
+}

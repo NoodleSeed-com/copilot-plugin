@@ -1,0 +1,28 @@
+{
+  "mcpServers": {
+    "noodle-developer": {
+      "type": "http",
+      "url": "https://cloud.noodleseed.dev/developer/mcp"
+    },
+    "noodle-readiness": {
+      "type": "stdio",
+      "command": "node",
+      "args": [
+        "${PLUGIN_ROOT}/skills/noodle-seed/scripts/noodle-plugin.mjs",
+        "plugin-mcp",
+        "--plugin-host",
+        "copilot",
+        "--plugin-version",
+        "0.33.72",
+        "--agent-kit-version",
+        "0.62.1",
+        "--plugin-content-hash",
+        "sha256:3c456c5cfeb2751b5fedaf15e066cc40c59e76e9e02aff2dc4e8e05256be2e17",
+        "--developer-mcp-url",
+        "https://cloud.noodleseed.dev/developer/mcp",
+        "--developer-mcp-capability-version",
+        "1"
+      ]
+    }
+  }
+}
