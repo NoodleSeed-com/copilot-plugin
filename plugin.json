@@ -1,6 +1,6 @@
 {
   "name": "noodle-seed",
-  "version": "0.33.127",
+  "version": "0.33.128",
   "description": "Build, validate, test, and deploy production MCP servers and apps from one TypeScript server.ts with Noodle Seed. Connect GitHub Copilot to local readiness tools and governed cloud operations.",
   "author": {
     "name": "Noodle Seed",
