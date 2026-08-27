@@ -3,10 +3,10 @@
 This repository is generated atomically by Noodle Seed System Release. Do not edit it by hand.
 The release record retains complete history; this entry records the compatibility set.
 
-## 0.33.130
+## 0.33.131
 
 - Agent Kit `0.87.0`
-- CLI `@noodleseed/one@0.144.0`
+- CLI `@noodleseed/one@0.144.1`
 - MCP capability `2`
-- Plugin content fingerprint `sha256:95d994c8b3c0b236d500e65142c9aaa8b04fb591bb8ed24df6bfbdf4b5b975e8`
-- Source SHA `cd026b2390bdf8d3199e914191214bff0a8d6e76`
+- Plugin content fingerprint `sha256:40f292c41ba97dc350085eeb59028698e84cf04c732c5e8817fbb9fdda387e40`
+- Source SHA `b507be63cb609a73bf9809890e5eb58b4a7556c0`
