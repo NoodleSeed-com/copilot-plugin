@@ -9,4 +9,4 @@ The release record retains complete history; this entry records the compatibilit
 - CLI `@noodleseed/one@0.164.0`
 - MCP capability `2`
 - Plugin content fingerprint `sha256:f089b557ec661ae67a77c1de2e04671ae8e03657bb6ef132dcf1139b1b1657a3`
-- Source SHA `3bd4c4f52f1ead696acef2bc523404c562e7fdac`
+- Source SHA `359c40ec9c0432feca4db9ab92aa3d9ee92dd40e`
