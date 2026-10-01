@@ -19,9 +19,9 @@ corresponding public `noodle ...` outcome.
 
 ## Compatibility and profile
 
-- Plugin version: `0.33.199`
-- Agent Kit: `0.116.0`
-- CLI: `@noodleseed/one@0.195.0`
+- Plugin version: `0.33.200`
+- Agent Kit: `0.117.0`
+- CLI: `@noodleseed/one@0.196.0`
 - MCP capability: `2`
 
 The local launcher uses a Copilot-specific Noodle profile. GitHub Copilot manages OAuth for the
